@@ -1,0 +1,16 @@
+{
+    "first_name": "Vladimir",
+    "last_name": "Putin",
+    "age": 65,
+    "skills":
+    [
+        {
+            "name": "Russian",
+            "level": 3
+        },
+        {
+            "name": "English",
+            "level": 1
+        }
+    ]
+}
